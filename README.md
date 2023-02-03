@@ -1,9 +1,10 @@
 # Instagram
+
 Modern instagram
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Run Locally
 
@@ -30,7 +31,6 @@ Start the server
 ```bash
   npm run start
 ```
-
 
 ## Authors
 
